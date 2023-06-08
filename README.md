@@ -19,22 +19,22 @@ SIM Location Finder uses the `spamx.id` API to fetch SIM information based on th
 git clone https://github.com/your-username/sim-location-finder.git
 
 cd sim-location-finder
-
-3. Install the required dependencies:pip install -r requirements.txt
+cd LocationfinderBd
+3. Install the required dependencies: pip install -r requirements.txt
 
 
 
 ## Usage
 
-1. Run the script:python sim_location_finder.py
+1. Run the script: python LocationfinderBd.py
 
-2. Enter the SIM input when prompted.
+2. Enter the SIM NUMBER when prompted.
 
 3. View the SIM information and the Google Maps URL if available.
 
 ## License
 
-This project is licensed under the [AhamedAlifandSpamx](LICENSE).
+This project is licensed under the [AhamedAlif and Spamx](LICENSE).
 
 ## Disclaimer
 
