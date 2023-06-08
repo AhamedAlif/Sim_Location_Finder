@@ -1,6 +1,6 @@
 # SIM Location Finder
 
-SIM Location Finder is a Python tool that retrieves location information for a given SIM input.
+SIM Location Finder is a Python tool that retrieves location information for a given SIM NUMBER.
 
 ## Description
 
