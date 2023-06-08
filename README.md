@@ -20,18 +20,13 @@ git clone https://github.com/your-username/sim-location-finder.git
 
 cd sim-location-finder
 
-3. Install the required dependencies:
-
-pip install -r requirements.txt
+3. Install the required dependencies:pip install -r requirements.txt
 
 
 
 ## Usage
 
-1. Run the script:
-
-python sim_location_finder.py
-
+1. Run the script:python sim_location_finder.py
 
 2. Enter the SIM input when prompted.
 
@@ -39,7 +34,7 @@ python sim_location_finder.py
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [AhamedAlifandSpamx](LICENSE).
 
 ## Disclaimer
 
